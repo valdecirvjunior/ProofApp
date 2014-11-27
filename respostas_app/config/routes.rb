@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   resources :home
   resources :importantes
   resources :menu
+  resources :diagrama
   root :to => 'home#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
