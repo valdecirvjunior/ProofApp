@@ -11,7 +11,7 @@ Para testar o aplicativo siga os seguintes passos:
 
 1. Clonar o repositorio git com o comando:
 
-     $ git clone git@github.com:valdecirvjunior/teste_agivis.git
+     $ git clone git@github.com:valdecirvjunior/ProofApp.git
      
 2. Entrar no diretorio "respostas_app";
 
